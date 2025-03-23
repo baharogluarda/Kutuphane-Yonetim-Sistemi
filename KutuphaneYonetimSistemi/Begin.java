@@ -88,10 +88,7 @@ public class Begin {
                     break;
             }
 
-
         }
-
-
 
     }
 
